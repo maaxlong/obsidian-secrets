@@ -1,0 +1,8 @@
+.layout-inner-right,
+.page-toc-container {
+  display: none;
+}
+
+.layout-inner.has-toc {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
