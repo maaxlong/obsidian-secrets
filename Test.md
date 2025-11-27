@@ -28,4 +28,10 @@ views:
       - assistant
       - aliases
       - Year
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - year
+
 ```
