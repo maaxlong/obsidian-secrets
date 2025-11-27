@@ -4,8 +4,8 @@ views:
   - type: table
     name: Table
     order:
-      - Title
       - file.name
+      - Title
       - subjects_simple
       - subjects_scientific
       - soundsilent
