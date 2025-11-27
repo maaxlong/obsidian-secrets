@@ -1,6 +1,6 @@
 ---
 syntaxMode: mdx
-title: 📚 Bookshelf
+title: 📚 Bookshelf 2
 description: This page showcases support for Obsidian Bases (still in early Alpha).
 ---
 
